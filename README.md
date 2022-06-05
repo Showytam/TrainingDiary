@@ -1,5 +1,7 @@
 # home_coach
 
+(Link on project)[https://showytam.github.io/TrainingDiary/]
+
 ## Project setup
 ```
 npm install
